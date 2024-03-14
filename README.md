@@ -14,7 +14,7 @@ Installs Git
 
 Git Clone
 
-      git clone
+      git clone https://github.com/ranasinghe07/Inky-Ponky.git
 
    ![02](https://github.com/ranasinghe07/Inky-Ponky/assets/163424553/7be12744-1f5d-4c6f-90f7-96fd8ee23dfe)
    ![03](https://github.com/ranasinghe07/Inky-Ponky/assets/163424553/c374919e-c2ac-4f7f-b01e-062b008b7f58)
